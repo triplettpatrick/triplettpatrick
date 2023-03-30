@@ -1,12 +1,3 @@
-### Hi there 👋
-
-<!--
-**triplettpatrick/triplettpatrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-
 # 💫 About Me:
 I'm a Front-End Developer with a passion for leveraging my skills and expertise to develop intuitive design layouts for web users.<br>Shoot me an email or add me on LinkedIn :)
 
